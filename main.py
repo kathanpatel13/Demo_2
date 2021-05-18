@@ -13,4 +13,5 @@ print('v1.1')
 
 print('Hi')
 
-print('Clone 1')
+
+print('v clone: 1.0')
